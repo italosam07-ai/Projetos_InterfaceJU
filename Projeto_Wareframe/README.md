@@ -1,3 +1,5 @@
+# Link para o projeto
+https://www.figma.com/proto/0TWOed5fyX23O2aHkdkvaH/Sem-t%C3%ADtulo?node-id=0-1&t=fqdKlW5d4rpietRC-1
 # Descrição do projeto
 ### Visão Geral
 O projeto consiste em um wireframe de baixa fidelidade que introduz um sistema nativo de gestão de eventos dentro do WhatsApp. O objetivo é eliminar a necessidade de aplicativos externos ou "votações" informais em conversas, permitindo que os usuários criem, gerenciem e acompanhem confirmações de presença diretamente em uma nova aba dedicada.
@@ -34,5 +36,3 @@ Diferenciais de UX Identificados
 Hierarquia de Informação: O uso de avatares redondos para participantes e ícones padronizados mantém a consistência com a linguagem visual do WhatsApp.
 
 Feedback Visual: A diferenciação clara entre "Confirmados" e "Pendentes" no dashboard inicial economiza toques, entregando o valor da informação logo no primeiro nível de navegação.
-# Link para o projeto
-https://www.figma.com/proto/0TWOed5fyX23O2aHkdkvaH/Sem-t%C3%ADtulo?node-id=0-1&t=fqdKlW5d4rpietRC-1
